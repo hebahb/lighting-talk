@@ -1,0 +1,196 @@
+---
+title: "Leveraging Open-Source Communities for Professional Development"
+title-slide-style: default
+title-slide-attributes: 
+  data-background-color: "#6f2c9e"
+format:
+  revealjs:
+    theme: simple
+    embed-resources: true
+    logo: logo-wide.png
+    footer: Hebah Bukhari | R-Ladies Philly/DC Lightning Talk 2023
+---
+
+## Before I discovered the beauty of coding...
+
+![](glass2.jpg){width="440"}
+
+::: notes
+I studied political science, comparative politics and international relations both in my undergrad and grad schools. But I focused my degrees on research using both quantitative and qualitative research methods and gained data analytics and statistical skills along the way. Besides learning to conduct a research project and analyze the results in STATA during a graduate course, I did not have any background in coding and data science in general.
+
+I never even had an interest in coding or thought it was possible for someone like me, a woman, to have a career in such a field.
+
+When I realized that my plan to become a social science researcher and academic is not working out I decided I needed to jump start my career with a new skill. I've always had an interest in data analysis, so I took an R for Data Analytics program form UCSD extension and came out of the program with RStudio installed on my laptop and knowing how to code print(hello world).
+:::
+
+## How do you learn data science?
+
+::: columns
+::: {.column width="50%"}
+<br>
+
+-   Masters in data science
+
+-   Boot camp
+
+-   Learn on the job
+
+-   Learn on your own
+:::
+
+::: {.column width="50%"}
+![](cover-career%20inds.png)
+:::
+:::
+
+::: notes
+Taking a step back for a moment, there are several options for paths to learn data science, as discussed in the Build a Career in Data Science book and podcast.
+:::
+
+## Important things needed in a learning journey
+
+::: columns
+::: {.column width="30%"}
+<br>
+
+Motivation 🙌
+
+Support 🩼
+:::
+
+::: {.column width="70%"}
+<br>
+
+...the most important things in a learning journey and the difficult things to find.
+:::
+:::
+
+::: notes
+In the book/podcast Emily Robinson and Jacqueline Nolis elaborately discuss the advantages and disadvantages of each learning path.
+
+In any learning journey the things you need the most are support and motivation.
+
+They are the most difficult to find when learning a new subject or a new skill on your own.
+:::
+
+# Finding a way out
+
+![](glass1.jpeg)
+
+::: notes
+Community is a powerful uplifting force during a learning process. But it is usually difficult to find your community during adult professional learning.
+
+For a long while after finishing the R for Data Analytics program I was lost.
+
+I somehow came across the R-ladies community.
+
+Started to join more communities.
+
+And started to leverage those available resources.
+:::
+
+# Open source communities
+
+## Public Communities
+
+::: columns
+::: {.column width="70%"}
+<br>
+
+LinkedIn
+
+Twitter
+
+Mastodon
+:::
+
+::: {.column width="30%"}
+![](Linkedin-Logo.png){width="100" height="80"}
+
+![](twitterlogo.webp){width="100"}
+
+![](Mastodon.webp){width="100"}
+:::
+:::
+
+::: notes
+::: notes
+Public communities like LinkedIn, Twitter, Mastodon and private communities like the slack channels for R-Ladies, WWCODE, R4DS, and Data Viz Society offer safe learning spaces, collaborative environments, and shared resources. Within such communities I continue to find the support and confidence to progress in my career as a solo data scientist and as an R coder.
+:::
+:::
+
+## Private communities
+
+::: columns
+::: {.column width="70%"}
+<br>
+
+R-ladies
+
+Women Who Code (WWCode)
+
+R for Data Science (R4DS)
+
+Data Visualization Society
+
+Observable
+
+Posit
+:::
+
+::: {.column width="30%"}
+![](logo-wide.png){width="100"}
+
+![](twitter-img.jpg){width="100" height="53"}
+
+![](logo-big.png){width="100"}
+
+![](Data+Visualization+Society+icon+2019-05-transparent.png){width="80"}
+
+![](observable-icon.png){width="80"}
+
+![](posit-logo-fullcolor-TM.png){width="100"}
+:::
+:::
+
+## How to leverage those resources?
+
+<br>
+
+-   Follow social media pages of private communities
+
+-   Join slack channels of private open sources communities
+
+-   Follow accounts and pages of companies like posit and observable and their community groups.
+
+-   **Determine your career path! Build a Career in Data Science book and podcast**
+
+-   Follow events, workshops, courses that relate to your career path
+
+## How to leverage those resources?
+
+-   Follow linkedin pages like the [[data analysis linkedin page]{.underline}](https://www.linkedin.com/showcase/skills-data-analysis/posts/?feedView=all) and the [[data analytics study group]{.underline}](https://www.linkedin.com/groups/12272422/)
+
+-   Look out for contributors, community leaders and events participants, follow them on social media
+
+-   [[Podcasts]{.underline}](https://hebahb.quarto.pub/hebah-b/posts/podcasts/) are great resources to stay up to date with industry and get introduced to industry leaders and learn from their experiences.
+
+-   Engage in online platforms. Ask questions and answer questions. [[Make your work public]{.underline}](https://www.youtube.com/watch?v=th79W4rv67g)[!]{.underline}
+
+-   Finally, reach out to people!
+
+# Thank you!
+
+::: columns
+::: {.column width="50%"}
+![](DCP_0036.jpg){width="400"}
+:::
+
+::: {.column width="50%"}
+[Website](https://hebahb.quarto.pub/hebah-b/)
+
+[Twitter](https://twitter.com/HebahBukhari)
+
+[LinkedIn](https://www.linkedin.com/in/hebah-bukhari/)
+:::
+:::
